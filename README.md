@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning android devlopment.
 - 💞️ I’m work as web and mobile application developer.
-- 📫 How to reach me -- anaushad456@gmail.com
+- 📫 How to reach me -- wizardshad@gmail.com
 
 <!---
 Nau7Alam/Nau7Alam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
