@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nau7Alam.
 - 👀 I’m interested in Full Stack development.
 - 🌱 I’m currently learning android development.
-- 💞️ I’m working as web and mobile application developer.
+- 💞️ I’m working as frontend web and mobile application engineer.
 - 📫 How to reach me -- wizardshad@gmail.com.
 
 <!---
